@@ -7,4 +7,7 @@ package com.qfedu.service;
  * @Time: 15:37
  */
 public class UserService {
+    public static void main(String[] args) {
+        System.out.println();
+    }
 }
