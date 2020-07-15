@@ -14,4 +14,6 @@ public class User {
     private double money;
 
     private Integer ega;
+
+    private String getName;
 }
