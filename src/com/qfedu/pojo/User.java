@@ -13,4 +13,5 @@ public class User {
     private String password;
     private double money;
 
+    private Integer ega;
 }
