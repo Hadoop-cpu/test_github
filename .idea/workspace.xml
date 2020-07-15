@@ -52,7 +52,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../Maven/apache-maven-3.5.4" />
+        <option name="mavenHome" value="F:/../../../Maven/apache-maven-3.5.4" />
         <option name="userSettingsFile" value="D:\Program Files\Maven\apache-maven-3.5.4\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -108,6 +108,8 @@
       <workItem from="1594708245391" duration="3865000" />
       <workItem from="1594791436030" duration="602000" />
       <workItem from="1594793600162" duration="1217000" />
+      <workItem from="1594708245391" duration="960000" />
+      <workItem from="1594807458552" duration="1215000" />
     </task>
     <task id="LOCAL-00001" summary="协作者提交">
       <created>1594708399051</created>
